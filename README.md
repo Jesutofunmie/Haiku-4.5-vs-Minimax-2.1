@@ -1,5 +1,4 @@
 # hello_world
-This repository is for practicing GitHub flow.
  Hi, I'm Jesutofunmi Ifekoya  
 **Budding Data Analyst | Excel • SQL • Power BI | Operations/Sales Analytics Enthusiast**
 
