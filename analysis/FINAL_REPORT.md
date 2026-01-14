@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-After 54 benchmark runs across 9 tasks, **MiniMax M2.1 matches Claude Haiku on accuracy** but is **1.5x slower on average**.
+After 54 benchmark runs across 9 tasks, **MiniMax M2.1 matches Claude Haiku on accuracy** but is **1.5x slower on average**. 
 
 ---
 
